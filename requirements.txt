@@ -1,0 +1,6 @@
+flask==2.2.3             # Web framework for Python
+sqlalchemy==2.0.0        # ORM for database management
+psycopg2-binary==2.9.6   # PostgreSQL database adapter
+docker==6.1.2            # Docker API client for Python
+pytest==7.4.0            # Testing framework
+requests==2.31.0         # HTTP library for making requests
